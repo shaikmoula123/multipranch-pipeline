@@ -13,7 +13,7 @@ pipeline{
             }
             steps{
                 echo "deploy to uat"
-                  stage("prod Deploy"){
+                  stage("main Deploy"){
             when {
                 branch "main"
             }
