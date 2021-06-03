@@ -6,6 +6,6 @@ pipeline{
         echo"Deploy to xyz environment"
         }
        
-
+}
 
 }
