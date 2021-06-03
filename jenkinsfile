@@ -4,8 +4,8 @@ pipeline{
         stage{"Deploy"}{
         steps{
         echo"Deploy to xyz environment"
-        }
-       }
-
+       
+       
+} 
 
 }
